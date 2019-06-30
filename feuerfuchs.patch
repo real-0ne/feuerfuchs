@@ -1,4 +1,4 @@
-diff --git a/js/src/vm/TypedArrayObject.cpp b/js/src/vm/TypedArrayObject.cpp
+diff --git /home/real0ne/mozilla/mozjs-24.2.0/js/src/vm/TypedArrayObject.cpp /home/real0ne/mozilla/mozjs-24.2.0/js/src/vm/TypedArrayObject.cpp
 index 55644b1..d1cc250 100644
 --- a/js/src/vm/TypedArrayObject.cpp
 +++ b/js/src/vm/TypedArrayObject.cpp
